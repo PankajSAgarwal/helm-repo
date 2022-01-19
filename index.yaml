@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cloudacademy-app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-01-19T23:03:47.237048+05:30"
+    description: A Helm chart for Kubernetes
+    digest: a340ae3071983a36376fd6b5c957be72f68dda5f3163a2acd01e36375ecd3167
+    name: cloudacademy-app
+    type: application
+    urls:
+    - cloudacademy-app-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-01-19T23:03:47.236181+05:30"
